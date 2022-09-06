@@ -24,7 +24,7 @@ This course aims to provide an introduction to the statisical inference in the p
 
 ## Resources
 
-* [Simulation Notes](https://www4.stat.ncsu.edu/~davidian/st810a/simulation_handout.pdf); 
+* [Simulation Notes](https://www4.stat.ncsu.edu/~davidian/st810a/simulation_handout.pdf)
 
 
 ## Marking
