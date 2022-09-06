@@ -1,7 +1,5 @@
 # Post-Prediction-Inference
 
-# Statistical Methods for the Analysis of EHR data
-
 ## Overview
 
 This course aims to provide an introduction to the statisical inference when outcomes and/or covariates are generated from a machine learning (ML) model.  As a starting point, we will consider the classical measurement error and misclassification literature.  We will then work on a method for M-estimation in the semi-supervised setting with error prone outcomes and covariates (SEP). You will be responsible for running simulation studies to evaluate the performance of the method and to build and R 
@@ -24,7 +22,7 @@ This course aims to provide an introduction to the statisical inference when out
 | 13   | Simulation Study; R package; Final report                                   |
 
 
-## Overview
+## Resources
 
 In weeks 1-6, articles will be assigned and written reflection is required.  Guidance on how to read and respond to an academic paper can be found [here](https://github.com/jlgrons/EHR_Reading_Course/tree/main/Article%20Reviews).
 
