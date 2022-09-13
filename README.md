@@ -7,7 +7,7 @@ This course aims to provide an introduction to the statisical inference in the p
 
 | Week | Assignment                            |
 |------|---------------------------------------|
-| 1    | [Chapter 1 and 2 of Yi](https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=alma991106812743606196&context=L&vid=01UTORONTO_INST:UTORONTO&lang=en&search_scope=UTL_AND_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,measurement%20error%20grace%20yi&offset=0)  |
+| 1    | [Chapter 2.1-2.4 of Yi](https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=alma991106812743606196&context=L&vid=01UTORONTO_INST:UTORONTO&lang=en&search_scope=UTL_AND_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,measurement%20error%20grace%20yi&offset=0)  |
 | 2    |   [Chapter 8 of Yi](https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=alma991106812743606196&context=L&vid=01UTORONTO_INST:UTORONTO&lang=en&search_scope=UTL_AND_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,measurement%20error%20grace%20yi&offset=0) (2018); Run First Simulation Study    |
 | 3   |  [Shaw et al](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8773) (2020); Simulation Study|
 | 4   |   Update correlated measurement error literature review; Simulation Study                       |
