@@ -1,5 +1,10 @@
 # Meeting Notes
 
+## 10/04/22
+
+* Discuss Shaw et al (2020).
+* Replicate the simulation result
+* Next Step for This Week
 
 ## 09/27/22
 
