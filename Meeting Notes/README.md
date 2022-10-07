@@ -1,5 +1,8 @@
 # Meeting Notes
 
+## 10/11/22
+* Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
+
 ## 10/04/22
 
 * Discuss Shaw et al (2020).
