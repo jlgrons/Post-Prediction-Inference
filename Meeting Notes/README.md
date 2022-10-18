@@ -1,5 +1,12 @@
 # Meeting Notes
 
+## 10/18/22
+* Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
+* Discuss the simulation result
+* Literature Review
+* Next step for this week
+
+
 ## 10/11/22
 * Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
 * Discuss the simulation result
