@@ -1,5 +1,33 @@
 # Post Prediction Inference Reading Course
 
+## Overview (Winter 2023)
+
+We will continuework on a method for M-estimation in the semi-supervised setting with error prone outcomes and covariates (SEP) derived from a ML model. You will be responsible for running simulation studies to evaluate the performance of the method and to build an R package to be submitted to CRAN.  You will also contribute to a manuscript for publication.  
+
+
+| Week | Assignment                            |
+|------|---------------------------------------|
+| 1    | Simulation Studies |
+| 2    | Simulation Studies    |
+| 3   |  Simulation Studies |
+| 4   |  Finalize Simulation Studies and Manuscript Draft                    |
+| 5 |     Real Data Analyses and Manuscript Draft |
+| 6   |    Update literature review                        |
+| 7    | READING WEEK                                          |
+| 8    |  Edit manuscript; R package |
+| 9    | R package                                      |
+| 10   | R package                                   |
+| 11   | R package                                 |
+| 12   | Submit R package                                  |
+| 13   | Edit R package                        |
+
+
+## Marking (Winter 2023)
+
+* Literature review: 20% (Feb 15)
+* Simulation studies: 45%  (Weekly Check-ins Until April 15)
+* Manuscript draft: 35%  (Weekly Check-ins Until April 15)
+
 ## Overview (Fall 2022)
 
 This course aims to provide an introduction to the statisical inference in the post-prediction setting in which outcomes and/or covariates are generated from a machine learning (ML) model.  As a starting point, we will consider the classical measurement error and misclassification literature.  We will then move on to some more contemporary work.  Ultimately, we will work on a method for M-estimation in the semi-supervised setting with error prone outcomes and covariates (SEP) derived from a ML model. You will be responsible for running simulation studies to evaluate the performance of the method and to build an R package to be submitted to CRAN. 
@@ -22,13 +50,14 @@ This course aims to provide an introduction to the statisical inference in the p
 | 13   | Simulation Study; R package; Final report                                   |
 
 
-## Resources
-
-* [Simulation Notes](https://www4.stat.ncsu.edu/~davidian/st810a/simulation_handout.pdf)
-
-
-## Marking
+## Marking (Fall 2022)
 
 * Literature review: 20% (Oct 15)
 * Simulation studies: 45% (Oct 15, Nov 15, Dec 15)
 * Manuscript draft: 35%  (Dec 15)
+
+
+
+## Resources
+
+* [Simulation Notes](https://www4.stat.ncsu.edu/~davidian/st810a/simulation_handout.pdf)
