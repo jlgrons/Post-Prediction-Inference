@@ -1,6 +1,6 @@
 # Post Prediction Inference Reading Course
 
-## Overview
+## Overview (Fall 2022)
 
 This course aims to provide an introduction to the statisical inference in the post-prediction setting in which outcomes and/or covariates are generated from a machine learning (ML) model.  As a starting point, we will consider the classical measurement error and misclassification literature.  We will then move on to some more contemporary work.  Ultimately, we will work on a method for M-estimation in the semi-supervised setting with error prone outcomes and covariates (SEP) derived from a ML model. You will be responsible for running simulation studies to evaluate the performance of the method and to build an R package to be submitted to CRAN. 
 
