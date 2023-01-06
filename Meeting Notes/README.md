@@ -1,5 +1,8 @@
 # Meeting Notes
 
+For Winter 2023, please keep updates in this [doc](https://docs.google.com/document/d/1KtgEr9Ycpk0xhGxcb5wOUipk1cwnSeognBge-GFMRQU/edit?usp=sharing) and update by 10pm the night before we meet.
+
+
 ## 10/18/22
 * Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
 * Discuss the simulation result
